@@ -36,6 +36,8 @@ This project is a personal portfolio and blog site designed to showcase my educa
     ```bash
     node index.js
     ```
+## Open the webpage
+Click the BOX URL and change the 3000 in the link to 5000
 
 ## Using the Chat Application
 
