@@ -37,7 +37,7 @@ This project is a personal portfolio and blog site designed to showcase my educa
     node index.js
     ```
 ## Open the webpage
-Click the BOX URL and change the 3000 in the link to 5000
+Click the BOX URL
 
 ## Using the Chat Application
 
